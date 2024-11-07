@@ -1,0 +1,28 @@
+/* DEFAULT */
+body {
+  background: #f6f6f6 !important;
+}
+
+/*########## NAVBAR SECTION ###########*/
+
+
+
+/*----------- PROFILE BACKGROUND ----------*/
+.profile-background-container {
+  margin: 0px !important;
+}
+
+.profile-container {
+  background: url("/image/profile-background.jpeg");
+  padding-top: 1px;
+  padding-bottom: 60px;
+}
+
+/*########### END PROFILE ICON #######*/
+
+
+/*----------- ORDER UI ----------*/
+.small-badge {
+  font-size: 12px !important;
+}
+/*----------- END ORDER UI ----------*/
